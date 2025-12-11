@@ -1,4 +1,4 @@
-# Which Tech Giant Is Best Positioned for a Downturn?
+# Which Tech Giant Is Best Positioned for an Economic Downturn?
 
 A financial health analysis comparing six major technology companies to determine which would best survive an economic recession.
 
