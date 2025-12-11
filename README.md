@@ -117,7 +117,7 @@ All financial data is retrieved from Yahoo Finance using the `yfinance` Python l
 
 ## Author
 
-[Your Name]
+Jaden Strong
 
 ## License
 
